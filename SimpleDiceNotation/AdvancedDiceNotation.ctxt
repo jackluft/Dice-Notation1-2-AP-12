@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AdvancedDiceNotation
+comment1.params=
+comment1.target=AdvancedDiceNotation()
+comment2.params=myDice
+comment2.target=void\ parse(java.lang.String)
+comment3.params=
+comment3.target=int\ roll()
+numComments=4

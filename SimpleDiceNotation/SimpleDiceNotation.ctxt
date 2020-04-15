@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SimpleDiceNotation
+comment1.params=
+comment1.target=SimpleDiceNotation()
+comment2.params=format
+comment2.target=SimpleDiceNotation(java.lang.String)
+comment3.params=copy
+comment3.target=SimpleDiceNotation(SimpleDiceNotation)
+comment4.params=
+comment4.target=int\ roll()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=simp
+comment6.target=boolean\ equals(SimpleDiceNotation)
+comment7.params=
+comment7.target=int\ getX()
+comment8.params=
+comment8.target=int\ getN()
+numComments=9
